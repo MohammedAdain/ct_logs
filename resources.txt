@@ -2,3 +2,4 @@ https://googlechrome.github.io/CertificateTransparency/log_states.html
 Schema V2: https://www.gstatic.com/ct/log_list/v2/log_list_schema.json
 Schema V2: https://groups.google.com/g/certificate-transparency/c/zZwGExvQeiE
 https://ct.googleapis.com/logs/us1/argon2024/ct/v1/get-sth
+https://blog.cloudflare.com/introducing-certificate-transparency-and-nimbus/
